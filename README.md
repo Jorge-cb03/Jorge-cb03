@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">Hola, soy Jorge Camacho! 👋🚀</h1>
 
-<!--
-**Jorge-cb03/Jorge-cb03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Apasionado de la <strong>programación</strong>, la <strong>tecnología</strong> y la <strong>creatividad</strong>.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 **Sobre mí**  
+🔹 Me encanta **crear, aprender y experimentar** con el **hardware y el software**.  
+🔹 Soy una persona **creativa** que disfruta haciendo cosas **visualmente atractivas**.  
+🔹 Actualmente sigo **estudiando** y mejorando para ser uno de los mejores en mi área.  
+
+---
+
+## 💡 **Tecnologías y Lenguajes**  
+🔹 **Lenguajes que manejo:**  
+  - Java ☕  
+  - JavaScript ⚡  
+  - HTML & CSS 🎨  
+
+🔹 **Siempre aprendiendo más y mejorando mis habilidades.** 📚  
+
+---
+
+## 📩 **¡Hablemos!**  
+Si quieres contactarme, puedes escribirme a:  
+
+📧 **barbacamachojorge@gmail.com**  
+📧 **jorgecb309@gmail.com**  
+
+📌 ¡Estoy abierto a **nuevos proyectos, colaboraciones** y cualquier cosa interesante! 🚀  
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" width="200">
+</p>
