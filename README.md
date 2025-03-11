@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Jorge Camacho! 👋🚀</h1>
 
 <p align="center">
-  💻 Apasionado de la <strong>programación</strong>, la <strong>tecnología</strong>, del<strong>hadware</strong>  y  <strong>creativo</strong>.
+  💻 Apasionado de la <strong>programación</strong>, la <strong>tecnología</strong>, del <strong>hadware</strong>  y  <strong>creativo</strong>.
 </p>
 
 ---
