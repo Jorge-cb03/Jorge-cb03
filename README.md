@@ -1,67 +1,73 @@
-<h1 align="center">Hola, soy Jorge Camacho 👋💻</h1>
+<div align="center">
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F88FF&background=00000000&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Jorge+Camacho+%F0%9F%91%8B;Estudiante+DAM+%7C+Ex-SMR;Hardware+%26+Backend+Lover+%F0%9F%92%BB" alt="Typing SVG" />
 
-<p align="center">
-<em>Estudiante de DAM | Ex-SMR | Entusiasta del Hardware & Backend</em>
-</p>
+  <p>
+    <em>"No me basta con que funcione, necesito entender POR QUÉ funciona."</em>
+  </p>
+  
+  <a href="mailto:barbacamachojorge@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me via Gmail" />
+  </a>
+  <a href="https://github.com/TU_USUARIO_AQUI">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github" />
+  </a>
 
-<p align="center">
-<a href="mailto:barbacamachojorge@gmail.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-Contactame-d14836%3Fstyle%3Dflat-square%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email" />
-</a>
-</p>
+</div>
 
-👨‍💻 Sobre mí
+---
 
-Soy un técnico de sistemas (SMR) evolucionando a desarrollador de software (DAM). Me considero curioso por naturaleza: no me basta con que las cosas funcionen, necesito entender la lógica de por qué funcionan.
+### 👨‍💻 Sobre mí: De los cables al código
 
-🔹 Mi pasión: "Cacharrear". Me encanta destripar problemas técnicos, ya sea reparando hardware o depurando código.
+Soy un técnico de sistemas (**SMR**) evolucionando a desarrollador de software (**DAM**). Mi base en hardware me da una ventaja única: sé cómo respira la máquina mientras escribo el código.
 
-🔹 Mi enfoque: Aunque tengo ojo para lo visual, actualmente disfruto más construyendo la lógica que hay detrás (Backend).
+- 🔭 **Enfoque actual:** Construyendo la lógica robusta del **Backend**.
+- 🛠️ **Mi pasión:** El "Cacharreo". Me verás tanto destripando un PC como depurando un `NullPointerException`.
+- ⚡ **Actitud:** Curioso por naturaleza, proactivo y extrovertido. Si no sé la respuesta, investigo hasta encontrarla.
 
-🔹 Mi actitud: Proactivo, extrovertido y siempre dispuesto a investigar hasta dar con la solución.
+---
 
-🛠️ Stack Tecnológico
+### 🛠️ Arsenal Tecnológico
 
-Lenguajes & Backend
+<div align="center">
 
-<p>
+**💻 Backend & Lógica** <br>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/SQL-4479A1%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" alt="SQL" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/MySQL-00000f%3Fstyle%3Dfor-the-badge%26logo%3Dmysql%26logoColor%3Dwhite" alt="MySQL" />
-</p>
+<img src="https://img.shields.io/badge/MySQL-00000f?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
 
-Frontend & Web
+**🎨 Frontend & Web** <br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 
-<p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" alt="HTML5" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" alt="CSS3" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript" />
-</p>
-
-Herramientas & Sistemas
-
-<p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Hardware-333333%3Fstyle%3Dfor-the-badge%26logo%3Dintel%26logoColor%3Dwhite" alt="Hardware" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Windows-0078D6%3Fstyle%3Dfor-the-badge%26logo%3Dwindows%26logoColor%3Dwhite" alt="Windows" />
+**🔧 Herramientas & Entorno** <br>
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+<img src="https://img.shields.io/badge/Hardware-333333?style=for-the-badge&logo=intel&logoColor=white" alt="Hardware" />
 
-📊 Estadísticas de GitHub
+</div>
 
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DTU_USUARIO_DE_GITHUB%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue" alt="Estadísticas de Jorge" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DTU_USUARIO_DE_GITHUB%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue" alt="Lenguajes más usados" />
-</p>
+---
 
-Nota: Reemplaza "TU_USUARIO_DE_GITHUB" en el código de arriba con tu nombre de usuario real para que salgan tus datos.
+### 📊 Mis Estadísticas
 
-📩 Contacto
+<div align="center">
+  <a href="https://github.com/TU_USUARIO_DE_GITHUB">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+</div>
 
-¿Tienes un proyecto interesante o quieres hablar de tecnología? ¡Escríbeme!
+---
 
-📧 barbacamachojorge@gmail.com 📧 jorgecb309@gmail.com
+### 📩 Conectemos
 
-<p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150">
-</p>
+¿Tienes un proyecto interesante, necesitas arreglar un servidor o quieres hablar de código?
+
+<div align="center">
+  <a href="mailto:barbacamachojorge@gmail.com">barbacamachojorge@gmail.com</a> • <a href="mailto:jorgecb309@gmail.com">jorgecb309@gmail.com</a>
+  <br><br>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100">
+</div>
