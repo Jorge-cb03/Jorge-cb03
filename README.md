@@ -9,7 +9,7 @@
   <a href="mailto:barbacamachojorge@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me via Gmail" />
   </a>
-  <a href="https://github.com/TU_USUARIO_AQUI">
+  <a href="https://github.com/Jorge-cb03">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github" />
   </a>
 
@@ -54,7 +54,7 @@ Soy un técnico de sistemas (**SMR**) evolucionando a desarrollador de software 
 ### 📊 Mis Estadísticas
 
 <div align="center">
-  <a href="https://github.com/TU_USUARIO_DE_GITHUB">
+  <a href="https://github.com/Jorge-cb03">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jorge-cb03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-cb03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
