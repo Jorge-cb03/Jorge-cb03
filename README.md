@@ -51,8 +51,6 @@ Herramientas & Sistemas <p>
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DTU_USUARIO_DE_GITHUB%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue" alt="Lenguajes más usados" />
 </p>
 
-Nota: Reemplaza "TU_USUARIO_DE_GITHUB" en el código de arriba con tu nombre de usuario real para que salgan tus datos.
-
 📩 Contacto
 
 ¿Tienes un proyecto interesante o quieres hablar de tecnología? ¡Escríbeme!
