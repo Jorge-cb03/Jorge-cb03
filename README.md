@@ -55,8 +55,8 @@ Soy un técnico de sistemas (**SMR**) evolucionando a desarrollador de software 
 
 <div align="center">
   <a href="https://github.com/TU_USUARIO_DE_GITHUB">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jorge-cb03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-cb03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
 </div>
 
