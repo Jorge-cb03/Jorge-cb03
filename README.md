@@ -73,15 +73,6 @@ Desarrollador en activo en **Indra / Minsait**, con raíces en hardware y sistem
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jorge-cb03&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-cb03&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</div>
-
----
-
 ### 📩 ¿Hablamos?
 
 ¿Tienes un proyecto interesante, quieres hablar de arquitectura o necesitas a alguien que entienda el stack de arriba abajo?
