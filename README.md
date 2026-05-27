@@ -4,11 +4,11 @@
 
   <p><em>"No me basta con que funcione, necesito entender POR QUÉ funciona."</em></p>
 
-  <a href="mailto:barbacamachojorge@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=barbacamachojorge@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/jorge-camacho-barba-71980b386/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/jorge-camacho-barba">
+    <img src="https://www.linkedin.com/in/jorge-camacho-barba-71980b386/" />
   </a>
   <a href="https://github.com/Jorge-cb03">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -69,7 +69,16 @@ Desarrollador en activo en **Indra / Minsait**, con raíces en hardware y sistem
 |---|---|---|
 | **Indra / Minsait** | Desarrollador Low Code (Becario) | 2026 – Presente |
 | **Savia & Cojali** | Prácticas Depto. Desarrollo & Sistemas | 2024 |
-| **Wego S.L. / Inforplay** | Técnico Informático de Sistemas y Hardware | 2022 / 2023 |
+| **Wego S.L. / Inforplay** | Técnico Informático de Sistemas y Hardware | 2022 – 2023 |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jorge-cb03&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-cb03&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</div>
 
 ---
 
@@ -78,7 +87,7 @@ Desarrollador en activo en **Indra / Minsait**, con raíces en hardware y sistem
 ¿Tienes un proyecto interesante, quieres hablar de arquitectura o necesitas a alguien que entienda el stack de arriba abajo?
 
 <div align="center">
-  <a href="mailto:barbacamachojorge@gmail.com">barbacamachojorge@gmail.com</a> •
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=barbacamachojorge@gmail.com">barbacamachojorge@gmail.com</a> •
   <a href="https://www.linkedin.com/in/jorge-camacho-barba">LinkedIn</a> •
   <a href="https://github.com/Jorge-cb03">GitHub</a>
   <br><br>
