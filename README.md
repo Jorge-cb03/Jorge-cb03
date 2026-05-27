@@ -69,7 +69,7 @@ Desarrollador en activo en **Indra / Minsait**, con raíces en hardware y sistem
 |---|---|---|
 | **Indra / Minsait** | Desarrollador Low Code (Becario) | 2026 – Presente |
 | **Savia & Cojali** | Prácticas Depto. Desarrollo & Sistemas | 2024 |
-| **Wego S.L. / Inforplay** | Técnico Informático de Sistemas y Hardware | 2022 – 2023 |
+| **Wego S.L. / Inforplay** | Técnico Informático de Sistemas y Hardware | 2022 / 2023 |
 
 ---
 
