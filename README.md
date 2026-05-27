@@ -71,14 +71,6 @@ Desarrollador en activo en **Indra / Minsait**, con raíces en hardware y sistem
 | **Savia & Cojali** | Prácticas Depto. Desarrollo & Sistemas | 2024 |
 | **Wego S.L. / Inforplay** | Técnico Informático de Sistemas y Hardware | 2022 – 2023 |
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jorge-cb03&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-cb03&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</div>
 
 ---
 
