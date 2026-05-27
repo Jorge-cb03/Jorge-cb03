@@ -7,8 +7,8 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=barbacamachojorge@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/jorge-camacho-barba">
-    <img src="https://www.linkedin.com/in/jorge-camacho-barba-71980b386/" />
+  <a href="https://www.linkedin.com/in/jorge-camacho-barba-71980b386/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Jorge-cb03">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
